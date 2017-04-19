@@ -2,6 +2,7 @@
   "name": "object_ls",
   "description": "JavaScript object inharitance inspector, inspired by looksee ruby gem",
   "version": "0.1",
+  "main": "object_ls.js",
   "repository": {
     "url": "https://github.com/paxa/object_ls"
   },
