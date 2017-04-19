@@ -1,0 +1,11 @@
+{
+  "name": "object_ls",
+  "description": "JavaScript object inharitance inspector, inspired by looksee ruby gem",
+  "version": "0.1",
+  "repository": {
+    "url": "https://github.com/paxa/object_ls"
+  },
+  "dependencies": {
+    "colors": "1.1.2"
+  }
+}
